@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Edson I am from Brazil.
+👨🏻‍💻I am graduated in mechanical desing at 🏫FATEC-SP sometime in my free time I like to code. 
+I've coded in VBA, .net framework with C# and VB.
+I also venture into web development🌎.
 
 <!--
 **edsonlcandido/edsonlcandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
