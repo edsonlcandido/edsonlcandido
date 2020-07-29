@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 My name is Edson I am from Brazil.
 
 👨🏻‍💻I am graduated in mechanical desing at 🏫FATEC-SP sometime in my free time I like to code. 
