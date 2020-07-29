@@ -4,7 +4,7 @@ My name is Edson I am from Brazil.
 👨🏻‍💻I am graduated in mechanical desing at 🏫FATEC-SP.
 
 Sometimes in my free time I like to code.
-I've coded in VBA, .net framework with C# and VB.
+I've coded in VBA, .NET framework with C# and VB.
 I also venture into web development🌎.
 
 <!--
