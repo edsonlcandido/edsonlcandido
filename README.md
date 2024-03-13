@@ -7,9 +7,9 @@ I'm a C# developer, proficient in both backend and frontend technologies. Here's
 #### Backend:
 - Development of Windows forms applications
 - ASP.NET
-- Blazor
 
 #### Frontend:
+- Blazor
 - HTML
 - CSS
 - JavaScript
