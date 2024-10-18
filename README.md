@@ -18,7 +18,7 @@ I also have experience with other web languages such as PHP.
 
 I'm knowledgeable in developing Wordpress themes and constantly seeking to learn and improve in new technologies.
 
-🔧 **Tecnologias e Ferramentas:**
+🔧 **Technologies and skills:**
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
