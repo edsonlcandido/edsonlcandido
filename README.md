@@ -40,7 +40,7 @@ I'm knowledgeable in developing Wordpress themes and constantly seeking to learn
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![Vue.js]([https://img.shields.io/badge/-Vue-F7DF1E?style=flat-square&logo=javascript&logoColor=4FC08D))
+![Vue.js]([https://img.shields.io/badge/-Vue-F7DF1E?style=flat-square&logo=javascript&logoColor=4FC08D)
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
