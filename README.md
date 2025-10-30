@@ -10,9 +10,11 @@ I'm a C# developer, proficient in both backend and frontend technologies. Here's
 
 #### Frontend:
 - Blazor
+- VUE
 - HTML
 - CSS
 - JavaScript
+- Typescript
 
 I also have experience with other web languages such as PHP.
 
@@ -41,6 +43,8 @@ I'm knowledgeable in developing Wordpress themes and constantly seeking to learn
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E??style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6??style=flat-square&logo=typescript&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
